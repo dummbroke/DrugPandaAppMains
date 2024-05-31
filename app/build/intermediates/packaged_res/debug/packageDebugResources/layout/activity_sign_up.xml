@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignUp"
+    android:background="@drawable/bakground"
+    >
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="166dp"
+        android:layout_height="156dp"
+        app:srcCompat="@drawable/logo_2_rm_bg"
+        tools:ignore="ContentDescription,MissingConstraints"
+        tools:layout_editor_absoluteX="122dp"
+        tools:layout_editor_absoluteY="-4dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="343dp"
+        android:layout_height="546dp"
+        android:background="@drawable/square"
+        android:backgroundTint="#80F6E7E7"
+        android:paddingTop="10dp"
+        android:text="Sign Up"
+        android:textAlignment="center"
+        android:textColorHint="@color/white"
+        android:textColorLink="#BA0D0D"
+        android:textSize="23dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.485"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="169dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textViewinclude"
+        android:layout_width="200dp"
+        android:layout_height="10dp"
+        android:text="Password must include:"
+        android:textAlignment="inherit"
+        android:textColor="@color/white"
+        android:textSize="20px"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="433dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="10dp"
+        android:layout_height="8dp"
+        app:srcCompat="@drawable/circle_check_solid"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="445dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="10dp"
+        android:layout_height="8dp"
+        app:srcCompat="@drawable/circle_check_solid"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="465dp" />
+
+    <TextView
+        android:id="@+id/textViewSymbol"
+        android:layout_width="200dp"
+        android:layout_height="10dp"
+        android:text="Symbol (@!#)"
+        android:textAlignment="inherit"
+        android:textColor="@color/white"
+        android:textSize="20px"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="463dp" />
+
+    <TextView
+        android:id="@+id/textViewCharacters"
+        android:layout_width="200dp"
+        android:layout_height="10dp"
+        android:text="Atleast 8 Character"
+        android:textAlignment="inherit"
+        android:textColor="@color/white"
+        android:textSize="20px"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="453dp" />
+
+    <TextView
+        android:id="@+id/textViewCapital"
+        android:layout_width="200dp"
+        android:layout_height="10dp"
+        android:text="Atleast 1 Capital Letter"
+        android:textAlignment="inherit"
+        android:textColor="@color/white"
+        android:textSize="20px"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="443dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="10dp"
+        android:layout_height="8dp"
+        app:srcCompat="@drawable/circle_check_solid"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="455dp" />
+
+    <EditText
+        android:id="@+id/editTextTextEmailAddress"
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:background="@drawable/rounded_corner_mild"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="276dp" />
+
+    <EditText
+        android:id="@+id/editTextNumber"
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:background="@drawable/rounded_corner_mild"
+        android:ems="10"
+        android:inputType="number"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="332dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="344dp"
+        android:layout_height="46dp"
+        android:text="Provide your details to create account"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="45px"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="212dp" />
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="110dp"
+        android:layout_height="18dp"
+        android:text="Name (required):"
+        android:textAlignment="inherit"
+        android:textColor="@color/white"
+        android:textSize="30px"
+        tools:ignore="DuplicateIds,MissingConstraints"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="258dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="110dp"
+        android:layout_height="18dp"
+        android:text="Mobile Number:"
+        android:textAlignment="inherit"
+        android:textColor="@color/white"
+        android:textSize="30px"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="314dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="110dp"
+        android:layout_height="18dp"
+        android:text="Password:"
+        android:textAlignment="inherit"
+        android:textColor="@color/white"
+        android:textSize="30px"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="375dp" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="300dp"
+        android:layout_height="57dp"
+        android:backgroundTint="#4A4A4A"
+        android:text="Login"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="50px"
+        tools:ignore="HardcodedText,MissingConstraints,PxUsage"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="559dp" />
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:background="@drawable/rounded_corner_mild"
+        android:ems="10"
+        android:inputType="textPassword"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="393dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="200dp"
+        android:layout_height="18dp"
+        android:text="Confirm your Password (required):"
+        android:textAlignment="inherit"
+        android:textColor="@color/white"
+        android:textSize="30px"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="486dp" />
+
+    <EditText
+        android:id="@+id/editTextConfirmPassword"
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:background="@drawable/rounded_corner_mild"
+        android:ems="10"
+        android:inputType="textPassword"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="504dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="100dp"
+        android:layout_height="33dp"
+        android:background="@drawable/line"
+        android:text="Login here"
+        android:textColor="@color/white"
+        android:textSize="10dp"
+        tools:layout_editor_absoluteX="165dp"
+        tools:layout_editor_absoluteY="615dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="200dp"
+        android:layout_height="18dp"
+        android:text="Already have an account?:"
+        android:textAlignment="inherit"
+        android:textColor="@color/white"
+        android:textSize="30px"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="624dp" />
+
+    <EditText
+        android:id="@+id/editTextTextPassword"
+        android:layout_width="58dp"
+        android:layout_height="22dp"
+        android:backgroundTint="#000000"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:textColorHint="#C51E1E"
+        tools:layout_editor_absoluteX="186dp"
+        tools:layout_editor_absoluteY="625dp"
+        tools:ignore="MissingConstraints" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

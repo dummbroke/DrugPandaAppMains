@@ -1,0 +1,23 @@
+<!-- res/menu/bottom_navigation_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/bx_home_alt"
+        android:title="Home" />
+    <item
+        android:id="@+id/messages"
+        android:icon="@drawable/message_solid"
+        android:title="Messages" />
+    <item
+        android:id="@+id/order"
+        android:icon="@drawable/circle_plus_solid"
+        android:title="Order" />
+    <item
+        android:id="@+id/notifications"
+        android:icon="@drawable/bell_solid"
+        android:title="Notifications" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/user_solid"
+        android:title="Profile" />
+</menu>

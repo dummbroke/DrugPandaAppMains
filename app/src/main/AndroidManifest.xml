@@ -13,31 +13,28 @@
         android:theme="@style/Theme.DrugPandaApp"
         tools:targetApi="31">
         <activity
-            android:name=".Terms_and_Condition_board"
+            android:name=".LogIn"
             android:exported="false" />
         <activity
-            android:name=".Help_board"
+            android:name=".BottomNav"
             android:exported="false" />
         <activity
-            android:name=".About_us_board"
+            android:name=".Profile"
             android:exported="false" />
         <activity
-            android:name=".Help"
+            android:name=".Notifications"
             android:exported="false" />
         <activity
-            android:name=".About_Us"
+            android:name=".Order"
             android:exported="false" />
         <activity
-            android:name=".Profile_edit"
+            android:name=".Messages"
             android:exported="false" />
         <activity
             android:name=".Meonly"
             android:exported="false" />
         <activity
             android:name=".MainDashBoard"
-            android:exported="false" />
-        <activity
-            android:name=".LogIn"
             android:exported="false" />
         <activity
             android:name=".SignUp"

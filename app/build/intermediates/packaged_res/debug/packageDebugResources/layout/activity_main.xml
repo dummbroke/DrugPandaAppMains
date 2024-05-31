@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/bakground"
+    >
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="182dp"
+        android:layout_height="190dp"
+        android:layout_marginTop="75dp"
+        app:layout_constraintEnd_toEndOf="@id/gl2"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="@id/gl1"
+        app:layout_constraintTop_toBottomOf="@+id/textView1"
+        app:srcCompat="@drawable/logo_2_rm_bg"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:text="WELCOME TO DRUG PANDA"
+        android:textColor="@color/white"
+        android:textSize="70px"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@id/gl2"
+        app:layout_constraintStart_toStartOf="@id/gl1"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="242dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="35dp"
+        android:text="Provide medical Assistance"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="50px"
+        app:layout_constraintEnd_toEndOf="@id/gl2"
+        app:layout_constraintHorizontal_bias="0.4"
+        app:layout_constraintStart_toStartOf="@id/gl1"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="316dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="65dp"
+        android:backgroundTint="#4A4A4A"
+        android:text="Login"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="50px"
+        app:layout_constraintStart_toStartOf="@id/gl1"
+        app:layout_constraintEnd_toEndOf="@id/gl2"
+        app:layout_constraintHorizontal_bias="0.478"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        tools:ignore="HardcodedText,MissingConstraints,PxUsage" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="316dp"
+        android:layout_height="57dp"
+        android:backgroundTint="#80ffff"
+        android:text="Signup"
+        android:textColor="#4A4A4A"
+        android:textColorHint="@color/white"
+        android:textSize="50px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@id/gl2"
+        app:layout_constraintHorizontal_bias="0.488"
+        app:layout_constraintStart_toStartOf="@id/gl1"
+        app:layout_constraintTop_toBottomOf="@+id/button1"
+        app:layout_constraintVertical_bias="0.1"
+        tools:ignore="HardcodedText,MissingConstraints" />
+
+    <!-- Guideline 1 -->
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.2" />
+
+    <!-- Guideline 2 -->
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.8" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
