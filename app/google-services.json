@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417693884833",
+    "project_id": "drug-panda",
+    "storage_bucket": "drug-panda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417693884833:android:b42dc116cb054e4d112be0",
+        "android_client_info": {
+          "package_name": "com.example.drugpandaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5dG7xz2Ds4RWL0RWLbGZ6zQVBxbEri2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
