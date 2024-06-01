@@ -42,6 +42,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,129",
+                        "endColumns": "51,69",
+                        "endOffsets": "64,194"
+                    },
+                    "to": {
+                        "startLines": "1973,2004",
+                        "startColumns": "4,4",
+                        "startOffsets": "130681,133997",
+                        "endColumns": "51,69",
+                        "endOffsets": "130728,134062"
+                    }
+                },
+                {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-4\\7af246161b3ea1199c4b104d26f21dcb\\transformed\\lifecycle-runtime-2.6.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -116,7 +133,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains2\\app\\build\\generated\\res\\processDebugGoogleServices\\values\\values.xml",
+                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains\\app\\build\\generated\\res\\processDebugGoogleServices\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -130,23 +147,6 @@
                         "startOffsets": "133488,133570,133674,133783,133903,150748",
                         "endColumns": "81,103,108,119,93,70",
                         "endOffsets": "133565,133669,133778,133898,133992,150814"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains2\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "57,100",
-                        "endColumns": "41,41",
-                        "endOffsets": "94,137"
-                    },
-                    "to": {
-                        "startLines": "640,960",
-                        "startColumns": "4,4",
-                        "startOffsets": "32798,56563",
-                        "endColumns": "41,41",
-                        "endOffsets": "32835,56600"
                     }
                 },
                 {
@@ -200,25 +200,6 @@
                         "startOffsets": "123782",
                         "endColumns": "49",
                         "endOffsets": "123827"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains2\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "102,334",
-                        "endLines": "5,7",
-                        "endColumns": "12,72",
-                        "endOffsets": "326,402"
-                    },
-                    "to": {
-                        "startLines": "2479,6398",
-                        "startColumns": "4,4",
-                        "startOffsets": "174120,447708",
-                        "endLines": "2482,6398",
-                        "endColumns": "12,71",
-                        "endOffsets": "174235,447775"
                     }
                 },
                 {
@@ -311,20 +292,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains2\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains\\app\\src\\main\\res\\values\\themes.xml",
                     "from": {
-                        "startLines": "1,3",
+                        "startLines": "2,7",
                         "startColumns": "4,4",
-                        "startOffsets": "17,129",
-                        "endColumns": "51,69",
-                        "endOffsets": "64,194"
+                        "startOffsets": "102,334",
+                        "endLines": "5,7",
+                        "endColumns": "12,72",
+                        "endOffsets": "326,402"
                     },
                     "to": {
-                        "startLines": "1973,2004",
+                        "startLines": "2479,6398",
                         "startColumns": "4,4",
-                        "startOffsets": "130681,133997",
-                        "endColumns": "51,69",
-                        "endOffsets": "130728,134062"
+                        "startOffsets": "174120,447708",
+                        "endLines": "2482,6398",
+                        "endColumns": "12,71",
+                        "endOffsets": "174235,447775"
                     }
                 },
                 {
@@ -363,6 +346,23 @@
                         "endLines": "35,651,652,653,654,1043,1044,1045,2182,5531,5534,5537,10164",
                         "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12,24",
                         "endOffsets": "1687,33668,33730,33792,33856,62173,62230,62284,155520,389081,389207,389335,671609"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,100",
+                        "endColumns": "41,41",
+                        "endOffsets": "94,137"
+                    },
+                    "to": {
+                        "startLines": "640,960",
+                        "startColumns": "4,4",
+                        "startOffsets": "32798,56563",
+                        "endColumns": "41,41",
+                        "endOffsets": "32835,56600"
                     }
                 },
                 {

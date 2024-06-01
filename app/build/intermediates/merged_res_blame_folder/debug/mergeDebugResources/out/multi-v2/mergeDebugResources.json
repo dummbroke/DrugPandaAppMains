@@ -1604,6 +1604,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,129",
+                        "endColumns": "51,69",
+                        "endOffsets": "64,194"
+                    },
+                    "to": {
+                        "startLines": "1973,2004",
+                        "startColumns": "4,4",
+                        "startOffsets": "130681,133997",
+                        "endColumns": "51,69",
+                        "endOffsets": "130728,134062"
+                    }
+                },
+                {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-4\\7af246161b3ea1199c4b104d26f21dcb\\transformed\\lifecycle-runtime-2.6.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -1678,7 +1695,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains2\\app\\build\\generated\\res\\processDebugGoogleServices\\values\\values.xml",
+                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains\\app\\build\\generated\\res\\processDebugGoogleServices\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -1692,23 +1709,6 @@
                         "startOffsets": "133488,133570,133674,133783,133903,150748",
                         "endColumns": "81,103,108,119,93,70",
                         "endOffsets": "133565,133669,133778,133898,133992,150814"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains2\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "57,100",
-                        "endColumns": "41,41",
-                        "endOffsets": "94,137"
-                    },
-                    "to": {
-                        "startLines": "640,960",
-                        "startColumns": "4,4",
-                        "startOffsets": "32798,56563",
-                        "endColumns": "41,41",
-                        "endOffsets": "32835,56600"
                     }
                 },
                 {
@@ -1762,25 +1762,6 @@
                         "startOffsets": "123782",
                         "endColumns": "49",
                         "endOffsets": "123827"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains2\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "102,334",
-                        "endLines": "5,7",
-                        "endColumns": "12,72",
-                        "endOffsets": "326,402"
-                    },
-                    "to": {
-                        "startLines": "2479,6398",
-                        "startColumns": "4,4",
-                        "startOffsets": "174120,447708",
-                        "endLines": "2482,6398",
-                        "endColumns": "12,71",
-                        "endOffsets": "174235,447775"
                     }
                 },
                 {
@@ -1873,20 +1854,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains2\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains\\app\\src\\main\\res\\values\\themes.xml",
                     "from": {
-                        "startLines": "1,3",
+                        "startLines": "2,7",
                         "startColumns": "4,4",
-                        "startOffsets": "17,129",
-                        "endColumns": "51,69",
-                        "endOffsets": "64,194"
+                        "startOffsets": "102,334",
+                        "endLines": "5,7",
+                        "endColumns": "12,72",
+                        "endOffsets": "326,402"
                     },
                     "to": {
-                        "startLines": "1973,2004",
+                        "startLines": "2479,6398",
                         "startColumns": "4,4",
-                        "startOffsets": "130681,133997",
-                        "endColumns": "51,69",
-                        "endOffsets": "130728,134062"
+                        "startOffsets": "174120,447708",
+                        "endLines": "2482,6398",
+                        "endColumns": "12,71",
+                        "endOffsets": "174235,447775"
                     }
                 },
                 {
@@ -1925,6 +1908,23 @@
                         "endLines": "35,651,652,653,654,1043,1044,1045,2182,5531,5534,5537,10164",
                         "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12,24",
                         "endOffsets": "1687,33668,33730,33792,33856,62173,62230,62284,155520,389081,389207,389335,671609"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,100",
+                        "endColumns": "41,41",
+                        "endOffsets": "94,137"
+                    },
+                    "to": {
+                        "startLines": "640,960",
+                        "startColumns": "4,4",
+                        "startOffsets": "32798,56563",
+                        "endColumns": "41,41",
+                        "endOffsets": "32835,56600"
                     }
                 },
                 {
@@ -2651,6 +2651,25 @@
             "outputFile": "com.example.drugpandaapp-debug-33:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "324"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "170"
+                    }
+                },
+                {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-4\\9331cd5b297f2fb7dd9db88cf66fdb29\\transformed\\material-1.11.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
@@ -2682,25 +2701,6 @@
                         "startOffsets": "175,245,329,413,509,611,713,3568",
                         "endColumns": "69,83,83,95,101,101,93,88",
                         "endOffsets": "240,324,408,504,606,708,802,3652"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\User\\OneDrive\\Desktop\\Programming Projects\\DrugPandaAppMains2\\app\\src\\main\\res\\values-night\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "324"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "170"
                     }
                 }
             ]

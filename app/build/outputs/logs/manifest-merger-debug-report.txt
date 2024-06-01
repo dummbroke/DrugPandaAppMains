@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:2:1-55:12
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\User\.gradle\caches\transforms-4\9331cd5b297f2fb7dd9db88cf66fdb29\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\.gradle\caches\transforms-4\2c468d12d26f8df46ca2005ba53e6ab9\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\User\.gradle\caches\transforms-4\7bbb8f21d10fa45e2b821099aa7d739f\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -52,18 +52,18 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\User\.gradle\cac
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\User\.gradle\caches\transforms-4\6257411aea4140344b0b93444b392489\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\User\.gradle\caches\transforms-4\6f0c80e3cc018cbff9d215e4f3e2e30c\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:5:5-53:19
-INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:5:5-53:19
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:5:5-53:19
+INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:5:5-53:19
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\User\.gradle\caches\transforms-4\9331cd5b297f2fb7dd9db88cf66fdb29\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\User\.gradle\caches\transforms-4\9331cd5b297f2fb7dd9db88cf66fdb29\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\.gradle\caches\transforms-4\2c468d12d26f8df46ca2005ba53e6ab9\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -81,101 +81,101 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\.gradle\cache
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\.gradle\caches\transforms-4\bf9ab0c21e8681a240dc0ecb917ea377\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\.gradle\caches\transforms-4\bf9ab0c21e8681a240dc0ecb917ea377\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] C:\Users\User\.gradle\caches\transforms-4\0f1b83bb2dcaa6f387b8480877fa832f\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:10:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:8:9-54
 	android:roundIcon
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:11:9-54
 	tools:targetApi
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:14:9-29
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:14:9-29
 	android:icon
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:13:9-50
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:13:9-50
 	android:dataExtractionRules
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.drugpandaapp.SignUp
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:17:9-24:20
-	android:exported
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:19:13-36
-	android:name
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:18:13-35
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:20:13-23:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:21:17-69
-	android:name
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:21:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:22:17-77
-	android:name
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:22:27-74
-activity#com.example.drugpandaapp.LogIn
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:26:9-28:40
-	android:exported
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:28:13-37
-	android:name
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:27:13-34
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:7:9-65
 activity#com.example.drugpandaapp.BottomNav
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:29:9-31:40
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:17:9-24:20
 	android:exported
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:31:13-37
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:19:13-36
 	android:name
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:30:13-38
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:18:13-38
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.drugpandaapp.LogIn
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:26:9-28:40
+	android:exported
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:27:13-34
+activity#com.example.drugpandaapp.SignUp
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:29:9-31:40
+	android:exported
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:30:13-35
 activity#com.example.drugpandaapp.Profile
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:32:9-34:40
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:32:9-34:40
 	android:exported
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:34:13-37
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:34:13-37
 	android:name
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:33:13-36
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:33:13-36
 activity#com.example.drugpandaapp.Notifications
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:35:9-37:40
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:35:9-37:40
 	android:exported
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:37:13-37
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:37:13-37
 	android:name
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:36:13-42
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:36:13-42
 activity#com.example.drugpandaapp.Order
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:38:9-40:40
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:38:9-40:40
 	android:exported
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:40:13-37
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:40:13-37
 	android:name
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:39:13-34
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:39:13-34
 activity#com.example.drugpandaapp.Messages
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:41:9-43:40
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:41:9-43:40
 	android:exported
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:43:13-37
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:43:13-37
 	android:name
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:42:13-37
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:42:13-37
 activity#com.example.drugpandaapp.Meonly
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:44:9-46:40
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:44:9-46:40
 	android:exported
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:46:13-37
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:46:13-37
 	android:name
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:45:13-35
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:45:13-35
 activity#com.example.drugpandaapp.MainDashBoard
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:47:9-49:40
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:47:9-49:40
 	android:exported
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:49:13-37
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:49:13-37
 	android:name
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:48:13-42
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:48:13-42
 activity#com.example.drugpandaapp.MainActivity
-ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:50:9-52:39
+ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:50:9-52:39
 	android:exported
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:52:13-36
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:52:13-36
 	android:name
-		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml:51:13-41
+		ADDED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml:51:13-41
 uses-sdk
-INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\User\.gradle\caches\transforms-4\9331cd5b297f2fb7dd9db88cf66fdb29\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\User\.gradle\caches\transforms-4\9331cd5b297f2fb7dd9db88cf66fdb29\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\.gradle\caches\transforms-4\2c468d12d26f8df46ca2005ba53e6ab9\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
@@ -271,9 +271,9 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\User\.gradle\caches\transforms-4\6f0c80e3cc018cbff9d215e4f3e2e30c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\User\.gradle\caches\transforms-4\6f0c80e3cc018cbff9d215e4f3e2e30c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\OneDrive\Desktop\Programming Projects\DrugPandaAppMains\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\.gradle\caches\transforms-4\ec204d833b09a1625db0b6d048d4998e\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\User\.gradle\caches\transforms-4\da089ebfd93b45ae5b6daa5c331b9d87\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
