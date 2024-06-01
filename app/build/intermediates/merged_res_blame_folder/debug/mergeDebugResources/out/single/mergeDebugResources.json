@@ -1,222 +1,242 @@
 [
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_user_solid.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\user_solid.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_right_from_bracket_solid.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\right_from_bracket_solid.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_rounded_corner.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\rounded_corner.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_circle_back.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\circle_back.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_fragment_order.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\fragment_order.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_medcine.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\medcine.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_bell_solid.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\bell_solid.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_message_solid.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\message_solid.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_google.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\google.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\layout_activity_messages.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\layout\\activity_messages.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_logo_2_rm_bg.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\logo_2_rm_bg.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_search.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\search.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_logo_2_rm_bg.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\logo_2_rm_bg.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_activity_terms_and_condition_board.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\activity_terms_and_condition_board.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_askdoctor.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\askdoctor.png"
     },
     {
-        "merged": "com.example.drugpandaapp-debug-31:/layout_activity_log_in.xml.flat",
-        "source": "com.example.drugpandaapp-main-33:/layout/activity_log_in.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_google.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\google.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_activity_help_board.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\activity_help_board.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_bakground.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\bakground.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_medcine.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\medcine.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\layout_activity_meonly.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\layout\\activity_meonly.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_message_solid.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\message_solid.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\layout_activity_bottom_nav.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\layout\\activity_bottom_nav.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_square.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\square.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\layout_activity_main_dash_board.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\layout\\activity_main_dash_board.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_activity_bottom_nav.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\activity_bottom_nav.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_search.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\search.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_person_circle_question_solid.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\person_circle_question_solid.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_file_circle_check_solid.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\file_circle_check_solid.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\layout_activity_sign_up.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\layout\\activity_sign_up.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_activity_log_in.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\activity_log_in.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_person_circle_question_solid.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\person_circle_question_solid.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_rounded_corner_mild.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\rounded_corner_mild.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\layout_activity_order.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\layout\\activity_order.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\fragment_profile.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_bx_home_alt.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\bx_home_alt.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_activity_profile_edit.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\activity_profile_edit.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_medproduct.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\medproduct.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_activity_about_us_board.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\activity_about_us_board.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_circle_check_solid.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\circle_check_solid.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_facebook.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\facebook.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_circle_check_solid.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\circle_check_solid.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_askdoctor.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\askdoctor.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_line.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\line.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_line.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\line.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\layout_activity_notifications.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\layout\\activity_notifications.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\menu_bottom_navigation_menu.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\menu\\bottom_navigation_menu.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\menu\\bottom_navigation_menu.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_circle_prof.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\circle_prof.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_labtest.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\labtest.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_user_solid.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\user_solid.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\rounded_corner.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_fragment_messages.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\fragment_messages.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_apple.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\apple.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_square.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\square.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_right_from_bracket_solid.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\right_from_bracket_solid.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_activity_main_dash_board.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\activity_main_dash_board.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_circle_question_solid.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\circle_question_solid.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\layout_activity_profile.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\layout\\activity_profile.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_circle_back.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\circle_back.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_circle_question_solid.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\circle_question_solid.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\facebook.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_medproduct.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\medproduct.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_circle_plus_solid.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\circle_plus_solid.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_bell_solid.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\bell_solid.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.drugpandaapp-debug-33:/layout_fragment_home.xml.flat",
+        "source": "com.example.drugpandaapp-main-35:/layout/fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\layout_activity_log_in.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\layout\\activity_log_in.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_labtest.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\labtest.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_rounded_corner_mild.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\rounded_corner_mild.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\fragment_notifications.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_angle_right_solid.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\angle_right_solid.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_bx_home_alt.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\bx_home_alt.xml"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_apple.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\apple.png"
     },
     {
-        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-31:\\drawable_circle_plus_solid.xml.flat",
-        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-33:\\drawable\\circle_plus_solid.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_file_circle_check_solid.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\file_circle_check_solid.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_bakground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\bakground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\layout_activity_meonly.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\layout\\activity_meonly.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_circle_prof.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\circle_prof.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-33:\\drawable_angle_right_solid.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-35:\\drawable\\angle_right_solid.xml"
     }
 ]
