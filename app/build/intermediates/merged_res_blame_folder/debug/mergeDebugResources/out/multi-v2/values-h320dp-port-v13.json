@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.drugpandaapp-mergeDebugResources-29:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "outputFile": "com.example.drugpandaapp-mergeDebugResources-31:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-4\\bac316905e1db2fac47d1a3046ebff9d\\transformed\\material-1.11.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-4\\9331cd5b297f2fb7dd9db88cf66fdb29\\transformed\\material-1.11.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

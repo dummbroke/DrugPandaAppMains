@@ -28,6 +28,21 @@
         android:testOnly="true"
         android:theme="@style/Theme.DrugPandaApp" >
         <activity
+            android:name="com.example.drugpandaapp.SignUp"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.drugpandaapp.LogIn"
+            android:exported="false" />
+        <activity
+            android:name="com.example.drugpandaapp.BottomNav"
+            android:exported="false" />
+        <activity
             android:name="com.example.drugpandaapp.Profile"
             android:exported="false" />
         <activity
@@ -40,29 +55,14 @@
             android:name="com.example.drugpandaapp.Messages"
             android:exported="false" />
         <activity
-            android:name="com.example.drugpandaapp.BottomNav"
-            android:exported="false" />
-        <activity
             android:name="com.example.drugpandaapp.Meonly"
             android:exported="false" />
         <activity
             android:name="com.example.drugpandaapp.MainDashBoard"
             android:exported="false" />
         <activity
-            android:name="com.example.drugpandaapp.LogIn"
-            android:exported="false" />
-        <activity
-            android:name="com.example.drugpandaapp.SignUp"
-            android:exported="false" />
-        <activity
             android:name="com.example.drugpandaapp.MainActivity"
-            android:exported="true" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+            android:exported="true" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
