@@ -28,7 +28,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.DrugPandaApp" >
         <activity
-            android:name="com.example.drugpandaapp.SignUp"
+            android:name="com.example.drugpandaapp.BottomNav"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -40,7 +40,7 @@
             android:name="com.example.drugpandaapp.LogIn"
             android:exported="false" />
         <activity
-            android:name="com.example.drugpandaapp.BottomNav"
+            android:name="com.example.drugpandaapp.SignUp"
             android:exported="false" />
         <activity
             android:name="com.example.drugpandaapp.Profile"
