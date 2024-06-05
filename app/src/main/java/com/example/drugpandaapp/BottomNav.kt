@@ -8,14 +8,12 @@ import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
-class HomeFragment : Fragment(R.layout.fragment_home)
-class MessagesFragment : Fragment(R.layout.fragment_messages)
-class OrderFragment : Fragment(R.layout.fragment_order)
-class NotificationsFragment : Fragment(R.layout.fragment_notifications)
-class ProfileFragment : Fragment(R.layout.fragment_profile)
-
-
 class BottomNav : AppCompatActivity() {
+    class HomeFragment : Fragment(R.layout.fragment_home)
+    class MessagesFragment : Fragment(R.layout.fragment_messages)
+    class OrderFragment : Fragment(R.layout.fragment_order)
+    class NotificationsFragment : Fragment(R.layout.fragment_notifications)
+    class ProfileFragment : Fragment(R.layout.fragment_profile)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()

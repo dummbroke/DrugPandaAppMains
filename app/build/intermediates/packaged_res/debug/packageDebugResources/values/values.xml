@@ -8,7 +8,7 @@
     <string name="google_app_id" translatable="false">1:417693884833:android:b42dc116cb054e4d112be0</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB5dG7xz2Ds4RWL0RWLbGZ6zQVBxbEri2E</string>
     <string name="google_storage_bucket" translatable="false">drug-panda.appspot.com</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_web_client_id">417693884833-i6rsjbiftda2du64rnfgo04ubtfkmd0m.apps.googleusercontent.com</string>
     <string name="project_id" translatable="false">drug-panda</string>
     <style name="Base.Theme.DrugPandaApp" parent="Theme.Material3.DayNight.NoActionBar">
         

@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">Drug Panda App</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_web_client_id">417693884833-i6rsjbiftda2du64rnfgo04ubtfkmd0m.apps.googleusercontent.com</string>
 </resources>

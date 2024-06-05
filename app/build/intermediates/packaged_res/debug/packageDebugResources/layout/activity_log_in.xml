@@ -78,7 +78,6 @@
         android:ems="10"
         android:inputType="textEmailAddress"
         app:layout_constraintEnd_toEndOf="@id/gl2"
-        app:layout_constraintHorizontal_bias="0.509"
         app:layout_constraintStart_toStartOf="@id/gl1"
         app:layout_constraintTop_toBottomOf="@+id/textView2"
         tools:ignore="MissingConstraints" />
@@ -107,7 +106,6 @@
         android:ems="10"
         android:inputType="textPassword"
         app:layout_constraintEnd_toEndOf="@id/gl2"
-        app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="@id/gl1"
         app:layout_constraintTop_toBottomOf="@+id/editText_Email_MobileNum"
         tools:ignore="MissingConstraints" />
@@ -123,7 +121,6 @@
         android:textColorHint="@color/white"
         android:textSize="40px"
         app:layout_constraintEnd_toEndOf="@id/gl2"
-        app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="@id/gl1"
         app:layout_constraintTop_toBottomOf="@+id/editTextPassword"
         tools:ignore="HardcodedText,MissingConstraints,PxUsage" />
@@ -173,7 +170,6 @@
         android:textColor="#4A4A4A"
         android:textSize="45px"
         app:layout_constraintEnd_toEndOf="@id/gl2"
-        app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="@id/gl1"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         tools:ignore="HardcodedText,MissingConstraints,PxUsage" />
@@ -190,7 +186,6 @@
         android:textColor="#4A4A4A"
         android:textSize="45px"
         app:layout_constraintEnd_toEndOf="@id/gl2"
-        app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="@id/gl1"
         app:layout_constraintTop_toBottomOf="@+id/btn_googleAccount"
         tools:ignore="HardcodedText,MissingConstraints,PxUsage" />
@@ -206,10 +201,8 @@
         android:textSize="45px"
         app:layout_constraintBottom_toBottomOf="@+id/textView3"
         app:layout_constraintEnd_toEndOf="@id/gl2"
-        app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="@id/gl1"
         app:layout_constraintTop_toBottomOf="@+id/btn_fbAccount"
-        app:layout_constraintVertical_bias="0.428"
         tools:ignore="HardcodedText,MissingConstraints,PxUsage" />
 
     <androidx.constraintlayout.widget.Guideline
