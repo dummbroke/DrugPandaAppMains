@@ -14,6 +14,7 @@ class OrderFragment : Fragment(R.layout.fragment_order)
 class NotificationsFragment : Fragment(R.layout.fragment_notifications)
 class ProfileFragment : Fragment(R.layout.fragment_profile)
 
+
 class BottomNav : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -46,7 +47,6 @@ class BottomNav : AppCompatActivity() {
                     true
                 }
                 R.id.profile -> {
-                    loadFragment(ProfileFragment())
                     true
                 }
                 else -> false

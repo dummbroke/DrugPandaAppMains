@@ -6,7 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bakground"
-    tools:context=".MainDashBoard">
+    tools:context=".MainDashBoard"
+    tools:ignore="ExtraText">
 
         <EditText
             android:id="@+id/edittext_searchbar"
@@ -34,17 +35,7 @@
             app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/logo_2_rm_bg" />
 
-    <TextView
-        android:id="@+id/textView23"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="40dp"
-        android:layout_marginTop="31dp"
-        android:layout_marginEnd="273dp"
-        android:text="Welcome!"
-        android:textSize="22sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
+     ="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/edittext_searchbar" />
 
@@ -151,7 +142,7 @@
         tools:layout_editor_absoluteX="0dp">
 
         <androidx.constraintlayout.widget.ConstraintLayout
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="match_parent">
 
             <TextView
@@ -375,7 +366,6 @@
 
 
         </androidx.constraintlayout.widget.ConstraintLayout>
-
     </HorizontalScrollView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

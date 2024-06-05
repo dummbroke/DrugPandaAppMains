@@ -45,7 +45,7 @@ class ProfileFragment : Fragment() {
          *
          * @param param1 Parameter 1.
          * @param param2 Parameter 2.
-         * @return A new instance of fragment ProfileFragment.
+         * @return A new instance of fragment OrderFragment.
          */
         // TODO: Rename and change types and number of parameters
         @JvmStatic
