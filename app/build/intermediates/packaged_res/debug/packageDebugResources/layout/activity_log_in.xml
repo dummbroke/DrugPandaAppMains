@@ -34,7 +34,6 @@
         android:textSize="23dp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="@id/gl2"
-        app:layout_constraintHorizontal_bias="0.485"
         app:layout_constraintStart_toStartOf="@id/gl1"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
         tools:ignore="MissingConstraints" />
@@ -210,7 +209,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.2" />
+        app:layout_constraintGuide_percent="0.20194647" />
 
     <!-- Guideline 2 -->
     <androidx.constraintlayout.widget.Guideline
@@ -218,6 +217,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_begin="329dp" />
+        app:layout_constraintGuide_percent="0.8029197" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

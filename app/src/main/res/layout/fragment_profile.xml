@@ -19,7 +19,7 @@
         android:layout_width="415dp"
         android:layout_height="512dp"
         app:srcCompat="@drawable/square"
-        tools:layout_editor_absoluteX="-2dp"
+        tools:layout_editor_absoluteX="-9dp"
         tools:layout_editor_absoluteY="72dp" />
 
     <ImageView
