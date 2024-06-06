@@ -60,8 +60,11 @@ id imageButton2
 id imageButton3
 id imageButton4
 id imageButton5
+id imageButton6
+id imageButton7
 id imageButton8
 id imageView
+id imageView1
 id imageView10
 id imageView12
 id imageView13
@@ -71,7 +74,6 @@ id imageView16
 id imageView17
 id imageView18
 id imageView2
-id imageView24
 id imageView3
 id imageView4
 id imageView5
@@ -87,7 +89,6 @@ id notifications
 id order
 id profile
 id textView
-id textView03
 id textView1
 id textView10
 id textView11
@@ -126,16 +127,15 @@ layout activity_bottom_nav
 layout activity_log_in
 layout activity_main
 layout activity_main_dash_board
+layout activity_meonly
 layout activity_profile_edit
 layout activity_sign_up
 layout fragment_about_us
-layout fragment_help
 layout fragment_home
 layout fragment_messages
 layout fragment_notifications
 layout fragment_order
 layout fragment_profile
-layout fragment_terms_condition
 menu bottom_navigation_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -145,7 +145,7 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
-string hello_blank_fragment
+string google_web_client_id
 string project_id
 style Base.Theme.DrugPandaApp
 style Theme.DrugPandaApp
