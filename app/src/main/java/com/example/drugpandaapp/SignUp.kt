@@ -52,8 +52,8 @@ class SignUp : AppCompatActivity() {
                     Toast.makeText(this, "Please fill in all fields", Toast.LENGTH_SHORT).show()
                 }
                 loginHereButton.setOnClickListener {
-                    // Handle login here button click
-
+                    val intent = Intent(this, LogIn::class.java)
+                    startActivity(intent)
                 }
             }
         }
