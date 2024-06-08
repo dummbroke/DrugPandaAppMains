@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.drugpandaapp-mergeDebugResources-37:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.example.drugpandaapp-mergeDebugResources-41:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-4\\fb9aa72db7b54b898fddb89c35817daf\\transformed\\play-services-auth-21.2.0\\res\\values-watch-v20\\values.xml",

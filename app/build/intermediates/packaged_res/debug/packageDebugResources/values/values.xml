@@ -3,6 +3,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Drug Panda App</string>
+    <string name="facebook_app_id">439214975638282</string>
+    <string name="facebook_client_token">303877cd3d3633ad85fe47429027342c</string>
     <string name="gcm_defaultSenderId" translatable="false">417693884833</string>
     <string name="google_api_key" translatable="false">AIzaSyB5dG7xz2Ds4RWL0RWLbGZ6zQVBxbEri2E</string>
     <string name="google_app_id" translatable="false">1:417693884833:android:b42dc116cb054e4d112be0</string>

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.drugpandaapp-mergeDebugResources-37:/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "com.example.drugpandaapp-mergeDebugResources-41:/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-4\\0f1b83bb2dcaa6f387b8480877fa832f\\transformed\\core-1.12.0\\res\\values-en-rIN\\values-en-rIN.xml",
