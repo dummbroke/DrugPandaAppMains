@@ -2,7 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
+        android:name=".MyApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -25,23 +28,7 @@
             android:name=".LogIn"
             android:exported="false" />
         <activity
-
             android:name=".BottomNav"
-            android:exported="false" />
-        <activity
-            android:name=".Profile"
-            android:exported="false" />
-        <activity
-            android:name=".Notifications"
-            android:exported="false" />
-        <activity
-            android:name=".Order"
-            android:exported="false" />
-        <activity
-            android:name=".Messages"
-            android:exported="false" />
-        <activity
-            android:name=".Meonly"
             android:exported="false" />
         <activity
             android:name=".MainDashBoard"
@@ -49,6 +36,10 @@
         <activity
             android:name=".MainActivity"
             android:exported="true" />
+
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+        <meta-data android:name="com.facebook.sdk.ClientToken" android:value="@string/facebook_client_token"/>
+
     </application>
 
 </manifest>

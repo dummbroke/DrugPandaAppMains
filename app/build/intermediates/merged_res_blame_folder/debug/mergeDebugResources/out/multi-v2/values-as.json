@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.drugpandaapp-mergeDebugResources-37:/values-as/values-as.xml",
+            "outputFile": "com.example.drugpandaapp-mergeDebugResources-41:/values-as/values-as.xml",
             "map": [
                 {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-4\\29010b26aa307c31f3f98c1d5e44738a\\transformed\\play-services-base-18.3.0\\res\\values-as\\values.xml",

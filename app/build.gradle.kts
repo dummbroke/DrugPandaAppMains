@@ -49,6 +49,8 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     implementation("com.google.android.material:material:1.1.0")
     implementation(platform("com.google.firebase:firebase-bom:33.1.0"))
-    implementation("com.google.firebase:firebase-auth")
+    implementation("com.google.firebase:firebase-auth:1.7.4")
     implementation("com.google.android.gms:play-services-auth:21.2.0")
+    implementation ("com.facebook.android:facebook-android-sdk:latest.release")
+    implementation ("com.facebook.android:facebook-login:latest.release")
 }
