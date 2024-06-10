@@ -66,11 +66,8 @@ id imageButton2
 id imageButton3
 id imageButton4
 id imageButton5
-id imageButton6
-id imageButton7
 id imageButton8
 id imageView
-id imageView1
 id imageView10
 id imageView11
 id imageView12

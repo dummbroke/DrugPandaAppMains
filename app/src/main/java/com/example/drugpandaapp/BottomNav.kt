@@ -45,6 +45,7 @@ class BottomNav : AppCompatActivity() {
                     true
                 }
                 R.id.profile -> {
+                    loadFragment(ProfileFragment())
                     true
                 }
                 else -> false
