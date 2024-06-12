@@ -137,6 +137,7 @@
         android:layout_marginTop="26dp"
         android:background="@drawable/rounded_corner_mild"
         android:ems="10"
+        android:textSize="13sp"
         android:inputType="textEmailAddress"
         app:layout_constraintEnd_toStartOf="@+id/gl2"
         app:layout_constraintStart_toStartOf="@+id/gl1"
@@ -151,6 +152,7 @@
         android:layout_marginTop="26dp"
         android:background="@drawable/rounded_corner_mild"
         android:ems="10"
+        android:textSize="13sp"
         android:inputType="number"
         app:layout_constraintEnd_toStartOf="@+id/gl2"
         app:layout_constraintStart_toStartOf="@+id/gl1"
@@ -234,6 +236,7 @@
         android:layout_marginTop="31dp"
         android:background="@drawable/rounded_corner_mild"
         android:ems="10"
+        android:textSize="13sp"
         android:inputType="textPassword"
         app:layout_constraintEnd_toStartOf="@+id/gl2"
         app:layout_constraintStart_toStartOf="@+id/gl1"
@@ -262,6 +265,7 @@
         android:layout_marginTop="1dp"
         android:background="@drawable/rounded_corner_mild"
         android:ems="10"
+        android:textSize="13sp"
         android:inputType="textPassword"
         app:layout_constraintEnd_toStartOf="@+id/gl2"
         app:layout_constraintStart_toStartOf="@+id/gl1"
@@ -270,20 +274,20 @@
 
     <Button
         android:id="@+id/btnloginhere"
-        android:layout_width="100dp"
-        android:layout_height="33dp"
-        android:layout_marginTop="4dp"
+        android:layout_width="80dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="2dp"
         android:layout_marginEnd="40dp"
         android:background="@drawable/line"
         android:text="Login here"
         android:textColor="@color/white"
-        android:textSize="10dp"
+        android:textSize="12dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/gl2"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.901"
         app:layout_constraintStart_toStartOf="@+id/gl1"
         app:layout_constraintTop_toBottomOf="@+id/btnSignUp"
-        app:layout_constraintVertical_bias="0.051"/>
+        app:layout_constraintVertical_bias="0.05" />
 
     <TextView
         android:id="@+id/textView7"

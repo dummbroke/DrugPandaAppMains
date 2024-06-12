@@ -41,10 +41,12 @@
             android:id="@+id/welcome_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
+            android:layout_marginTop="40dp"
             android:text="Welcome!"
             android:textSize="22sp"
             android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.146"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/edittext_searchbar" />
 
@@ -55,6 +57,8 @@
             android:text="Iris Tech"
             android:textSize="31sp"
             android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.158"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/welcome_text" />
 
@@ -62,6 +66,8 @@
             android:id="@+id/category_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginStart="46dp"
+            android:layout_marginTop="12dp"
             android:text="Category"
             android:textSize="17sp"
             android:textStyle="bold"
@@ -72,65 +78,74 @@
             android:id="@+id/button_ask_doctor"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:layout_marginTop="16dp"
+            android:layout_marginStart="36dp"
+            android:layout_marginTop="240dp"
             android:src="@drawable/askdoctor"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/category_text" />
+            app:layout_constraintTop_toTopOf="parent" />
 
         <ImageButton
             android:id="@+id/button_medicine"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_marginStart="16dp"
+            android:layout_marginTop="240dp"
             android:src="@drawable/medcine"
             app:layout_constraintStart_toEndOf="@+id/button_ask_doctor"
-            app:layout_constraintTop_toBottomOf="@+id/category_text" />
+            app:layout_constraintTop_toTopOf="parent" />
 
         <ImageButton
             android:id="@+id/button_lab_test"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_marginStart="16dp"
+            android:layout_marginTop="240dp"
             android:src="@drawable/labtest"
             app:layout_constraintStart_toEndOf="@+id/button_medicine"
-            app:layout_constraintTop_toBottomOf="@+id/category_text" />
+            app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
             android:id="@+id/text_ask_doctor"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginStart="48dp"
             android:layout_marginTop="8dp"
             android:text="Ask Doctor"
             android:textSize="15sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toStartOf="@+id/button_ask_doctor"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/button_ask_doctor" />
 
         <TextView
             android:id="@+id/text_medicine"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="8dp"
             android:text="Medicine"
             android:textSize="15sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toStartOf="@+id/button_medicine"
+            app:layout_constraintStart_toEndOf="@+id/text_ask_doctor"
             app:layout_constraintTop_toBottomOf="@+id/button_medicine" />
 
         <TextView
             android:id="@+id/text_lab_test"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginStart="58dp"
+            android:layout_marginTop="8dp"
             android:text="Lab Test"
             android:textSize="15sp"
             android:textStyle="bold"
-            app:layout_constraintStart_toStartOf="@+id/button_lab_test"
+            app:layout_constraintStart_toEndOf="@+id/text_medicine"
             app:layout_constraintTop_toBottomOf="@+id/button_lab_test" />
 
         <HorizontalScrollView
             android:layout_width="match_parent"
             android:layout_height="250dp"
-            android:layout_marginTop="100dp"
+            android:layout_marginTop="80dp"
             android:background="#C8C8C8"
+            app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/text_lab_test">
 
             <androidx.constraintlayout.widget.ConstraintLayout
@@ -309,7 +324,7 @@
                     app:layout_constraintBottom_toBottomOf="@+id/textView9"
                     app:layout_constraintEnd_toEndOf="@+id/textView9"
                     app:layout_constraintStart_toStartOf="@+id/textView9"
-                    app:layout_constraintTop_toBottomOf="@+id/textView11"/>
+                    app:layout_constraintTop_toBottomOf="@+id/textView11" />
 
                 <ImageView
                     android:id="@+id/imageView8"
