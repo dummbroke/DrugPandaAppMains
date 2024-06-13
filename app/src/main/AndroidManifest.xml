@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:name=".MyApplication"
@@ -15,6 +15,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DrugPandaApp"
         tools:targetApi="31">
+        <activity
+            android:name=".Messege_main"
+            android:exported="false" />
+        <activity
+            android:name=".Messege_chatwindow"
+            android:exported="false" />
         <activity
             android:name=".SignUp"
             android:exported="false">
@@ -37,9 +43,12 @@
             android:name=".MainActivity"
             android:exported="true" />
 
-        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
-        <meta-data android:name="com.facebook.sdk.ClientToken" android:value="@string/facebook_client_token"/>
-
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        <meta-data
+            android:name="com.facebook.sdk.ClientToken"
+            android:value="@string/facebook_client_token" />
     </application>
 
 </manifest>
