@@ -22,7 +22,7 @@
         tools:ignore="ContentDescription,MissingConstraints" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/textView33"
         android:layout_width="343dp"
         android:layout_height="546dp"
         android:layout_marginTop="12dp"
