@@ -1,10 +1,18 @@
 R_DEF: Internal format may change without notice
 local
 color black
+color midnightblue
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
 color white
+drawable addproff
 drawable angle_right_solid
 drawable apple
 drawable askdoctor
+drawable back
 drawable bakground
 drawable bell_solid
 drawable bx_home_alt
@@ -24,13 +32,28 @@ drawable logo_2_rm_bg
 drawable medcine
 drawable medproduct
 drawable message_solid
+drawable person
 drawable person_circle_question_solid
 drawable right_from_bracket_solid
 drawable rounded_corner
 drawable rounded_corner_mild
 drawable search
+drawable sendbutton
 drawable square
 drawable user_solid
+font bhu
+font dancing
+font nunito
+font nunito_bold
+font nunito_extrabold
+font nunito_semibold
+font poppins_black
+font poppins_bold
+font poppins_italic
+font poppins_regular
+font spartan_bold
+font spartan_regular
+font spartan_thin
 id Email_MobileNum
 id Password
 id aboutUsFragment
@@ -53,10 +76,6 @@ id btnloginhere
 id button
 id button1
 id button2
-id button_ask_doctor
-id button_lab_test
-id button_medicine
-id category_text
 id editTextConfirmPassword
 id editTextNumber
 id editTextPassword
@@ -71,8 +90,6 @@ id edittext_searchbar
 id gl1
 id gl2
 id gl2hor
-id gl3
-id gl4
 id helpFragment
 id home
 id imageButton
@@ -100,7 +117,6 @@ id imageView6
 id imageView7
 id imageView8
 id imageView9
-id iris_tech_text
 id main
 id messages
 id nav_host_profile
@@ -144,11 +160,7 @@ id textViewCapital
 id textViewCharacters
 id textViewSymbol
 id textViewinclude
-id text_ask_doctor
-id text_lab_test
-id text_medicine
 id text_signuplink
-id welcome_text
 layout activity_bottom_nav
 layout activity_log_in
 layout activity_main
