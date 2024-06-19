@@ -16,11 +16,21 @@
         tools:layout_editor_absoluteY="-1dp"
         tools:ignore="DuplicateIds,MissingConstraints" />
 
+
+    <ImageButton
+        android:id="@+id/imageButton04"
+        android:layout_width="48dp"
+        android:layout_height="41dp"
+        android:background="white"
+        android:src="@drawable/backnew"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="16dp" />
+
     <TextView
         android:id="@+id/textView10"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="28dp"
+        android:layout_marginStart="52dp"
         android:layout_marginTop="16dp"
         android:text="Inbox"
         android:textColor="@color/white"
@@ -176,7 +186,7 @@
                 android:layout_width="410dp"
                 android:layout_height="68dp"
                 android:layout_toRightOf="@id/imageViewUser1"
-                android:translationY="33dp"
+                android:translationY="32dp"
                 tools:layout_editor_absoluteX="-1dp"
                 tools:layout_editor_absoluteY="164dp" />
 
