@@ -4,7 +4,7 @@
             "outputFile": "com.example.drugpandaapp-mergeDebugResources-58:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kennc\\.gradle\\caches\\transforms-4\\de34cdb378d9387bcce3ead8ff1a2cd9\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-4\\de34cdb378d9387bcce3ead8ff1a2cd9\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\kennc\\.gradle\\caches\\transforms-4\\7e8b0de5d6a805630affc9ebc8f4a862\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-4\\7e8b0de5d6a805630affc9ebc8f4a862\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -35,22 +35,31 @@
             app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/logo_2_rm_bg" />
 
-     ="parent"
+    <TextView
+        android:id="@+id/Welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome!"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.134"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/edittext_searchbar" />
+        tools:layout_editor_absoluteY="87dp" />
 
     <TextView
         android:id="@+id/textView24"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="77dp"
+        android:layout_marginStart="60dp"
         android:layout_marginEnd="214dp"
         android:text="Iris Tech"
         android:textSize="31sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView23" />
+        tools:layout_editor_absoluteY="117dp" />
 
     <TextView
         android:id="@+id/textView25"
@@ -71,33 +80,33 @@
         android:id="@+id/imageButton2"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:layout_marginStart="40dp"
-        android:layout_marginTop="13dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="220dp"
         android:src="@drawable/askdoctor"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView25" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageButton
         android:id="@+id/imageButton3"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_marginStart="26dp"
-        android:layout_marginTop="65dp"
+        android:layout_marginTop="220dp"
         android:src="@drawable/medcine"
         app:layout_constraintStart_toEndOf="@+id/imageButton2"
-        app:layout_constraintTop_toBottomOf="@+id/textView24" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageButton
         android:id="@+id/imageButton8"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:layout_marginStart="18dp"
-        android:layout_marginTop="167dp"
-        android:layout_marginEnd="27dp"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="220dp"
+        android:layout_marginEnd="19dp"
         android:src="@drawable/labtest"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/imageButton3"
-        app:layout_constraintTop_toBottomOf="@+id/edittext_searchbar" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView16"

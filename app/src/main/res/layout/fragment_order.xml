@@ -22,7 +22,7 @@
         android:id="@+id/imageButton04"
         android:layout_width="48dp"
         android:layout_height="41dp"
-        android:background="white"
+        android:background="@color/white"
         android:src="@drawable/backnew"
         tools:layout_editor_absoluteX="4dp"
         tools:layout_editor_absoluteY="16dp" />
@@ -322,6 +322,5 @@
         android:src="@drawable/angle_right_solid"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView24" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

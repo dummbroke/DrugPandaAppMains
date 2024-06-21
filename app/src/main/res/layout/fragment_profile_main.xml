@@ -21,7 +21,7 @@
         android:id="@+id/imageButton04"
         android:layout_width="48dp"
         android:layout_height="41dp"
-        android:background="white"
+        android:background="@color/white"
         android:src="@drawable/backnew"
         tools:layout_editor_absoluteX="4dp"
         tools:layout_editor_absoluteY="16dp" />
@@ -268,7 +268,7 @@
         tools:ignore="MissingConstraints" />
 
     <ImageButton
-        android:id="@+id/imageButton"
+        android:id="@+id/btnProfileEdit"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="133dp"
@@ -279,7 +279,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView24" />
 
     <ImageButton
-        android:id="@+id/imageButton2"
+        android:id="@+id/btnAboutUs"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="204dp"
@@ -290,7 +290,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView24" />
 
     <ImageButton
-        android:id="@+id/imageButton3"
+        android:id="@+id/btnHelp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="280dp"
@@ -301,7 +301,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView24" />
 
     <ImageButton
-        android:id="@+id/imageButton4"
+        android:id="@+id/btnTermsAndConditions"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="356dp"
@@ -312,7 +312,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView24" />
 
     <ImageButton
-        android:id="@+id/imageButton5"
+        android:id="@+id/btnlogout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="428dp"

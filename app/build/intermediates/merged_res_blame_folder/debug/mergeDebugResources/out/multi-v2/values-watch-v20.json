@@ -4,7 +4,7 @@
             "outputFile": "com.example.drugpandaapp-mergeDebugResources-58:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kennc\\.gradle\\caches\\transforms-4\\596ed6f1565668dfd1376c6364239269\\transformed\\play-services-auth-21.2.0\\res\\values-watch-v20\\values.xml",
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-4\\596ed6f1565668dfd1376c6364239269\\transformed\\play-services-auth-21.2.0\\res\\values-watch-v20\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\kennc\\.gradle\\caches\\transforms-4\\7e8b0de5d6a805630affc9ebc8f4a862\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-4\\7e8b0de5d6a805630affc9ebc8f4a862\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
