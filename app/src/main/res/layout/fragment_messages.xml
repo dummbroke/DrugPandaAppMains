@@ -16,15 +16,15 @@
         tools:layout_editor_absoluteY="-1dp"
         tools:ignore="DuplicateIds,MissingConstraints" />
 
-
     <ImageButton
         android:id="@+id/imageButton04"
         android:layout_width="48dp"
         android:layout_height="41dp"
-        android:background="@color/white"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="17dp"
         android:src="@drawable/backnew"
-        tools:layout_editor_absoluteX="4dp"
-        tools:layout_editor_absoluteY="16dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView10"
@@ -46,6 +46,7 @@
         android:layout_marginStart="1dp"
         android:layout_marginTop="1dp"
         android:layout_marginEnd="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
@@ -59,15 +60,17 @@
                 android:id="@+id/edittext_searchbar"
                 android:layout_width="379dp"
                 android:layout_height="44dp"
-                android:layout_marginStart="16dp"
                 android:layout_marginTop="16dp"
                 android:background="@drawable/rounded_corner"
                 android:drawableLeft="@drawable/search"
                 android:hint="Search"
                 android:textColor="@color/black"
                 android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/imageViewUser3"
+                app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.0" />
 
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/imageViewUser1"
@@ -77,9 +80,11 @@
                 android:src="@drawable/person"
                 app:civ_border_color="#FE2C54"
                 app:civ_border_width="2dp"
-                tools:layout_editor_absoluteX="16dp"
-                tools:layout_editor_absoluteY="90dp" />
-
+                app:layout_constraintBottom_toTopOf="@+id/gl2"
+                app:layout_constraintEnd_toStartOf="@+id/imageViewUser2"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/gl1" />
 
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/imageViewUser2"
@@ -89,8 +94,11 @@
                 android:src="@drawable/person"
                 app:civ_border_color="#FE2C54"
                 app:civ_border_width="2dp"
-                tools:layout_editor_absoluteX="89dp"
-                tools:layout_editor_absoluteY="90dp" />
+                app:layout_constraintBottom_toTopOf="@+id/gl2"
+                app:layout_constraintEnd_toStartOf="@+id/imageViewUser3"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/imageViewUser1"
+                app:layout_constraintTop_toTopOf="@+id/gl1" />
 
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/imageViewUser3"
@@ -100,8 +108,11 @@
                 android:src="@drawable/person"
                 app:civ_border_color="#FE2C54"
                 app:civ_border_width="2dp"
-                tools:layout_editor_absoluteX="165dp"
-                tools:layout_editor_absoluteY="90dp" />
+                app:layout_constraintBottom_toTopOf="@+id/gl2"
+                app:layout_constraintEnd_toStartOf="@+id/imageViewUser4"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/imageViewUser2"
+                app:layout_constraintTop_toTopOf="@+id/gl1" />
 
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/imageViewUser4"
@@ -111,8 +122,11 @@
                 android:src="@drawable/person"
                 app:civ_border_color="#FE2C54"
                 app:civ_border_width="2dp"
-                tools:layout_editor_absoluteX="244dp"
-                tools:layout_editor_absoluteY="90dp" />
+                app:layout_constraintBottom_toTopOf="@+id/gl2"
+                app:layout_constraintEnd_toStartOf="@+id/imageViewUser5"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/imageViewUser3"
+                app:layout_constraintTop_toTopOf="@+id/gl1" />
 
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/imageViewUser5"
@@ -122,8 +136,64 @@
                 android:src="@drawable/person"
                 app:civ_border_color="#FE2C54"
                 app:civ_border_width="2dp"
-                tools:layout_editor_absoluteX="321dp"
-                tools:layout_editor_absoluteY="90dp" />
+                app:layout_constraintBottom_toTopOf="@+id/gl2"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/imageViewUser4"
+                app:layout_constraintTop_toTopOf="@+id/gl1" />
+
+
+
+            <ImageView
+                android:id="@+id/statusOnline1"
+                android:layout_width="410dp"
+                android:layout_height="68dp"
+                android:layout_toRightOf="@id/imageViewUser1"
+                app:layout_constraintBottom_toTopOf="@+id/gl4"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/gl3" />
+
+            <ImageView
+                android:id="@+id/statusOnline2"
+                android:layout_width="410dp"
+                android:layout_height="68dp"
+                android:layout_toRightOf="@id/imageViewUser1"
+                app:layout_constraintBottom_toTopOf="@+id/gl5"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/gl4" />
+
+            <ImageView
+                android:id="@+id/statusOnline3"
+                android:layout_width="410dp"
+                android:layout_height="68dp"
+                android:layout_toRightOf="@id/imageViewUser1"
+                app:layout_constraintBottom_toTopOf="@+id/gl6"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/gl5" />
+
+            <ImageView
+                android:id="@+id/statusOnline4"
+                android:layout_width="410dp"
+                android:layout_height="68dp"
+                android:layout_toRightOf="@id/imageViewUser1"
+                app:layout_constraintBottom_toTopOf="@+id/gl7"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/gl6" />
+
+
+            <ImageView
+                android:id="@+id/statusOnline5"
+                android:layout_width="410dp"
+                android:layout_height="68dp"
+                android:layout_toRightOf="@id/imageViewUser1"
+                app:layout_constraintBottom_toTopOf="@+id/gl8"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/gl7" />
 
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/imageViewUser6"
@@ -133,8 +203,9 @@
                 android:src="@drawable/person"
                 app:civ_border_color="#FE2C54"
                 app:civ_border_width="2dp"
-                tools:layout_editor_absoluteX="29dp"
-                tools:layout_editor_absoluteY="202dp" />
+                app:layout_constraintBottom_toTopOf="@+id/gl4"
+                app:layout_constraintEnd_toStartOf="@+id/gl10"
+                app:layout_constraintTop_toTopOf="@+id/gl3" />
 
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/imageViewUser7"
@@ -144,8 +215,11 @@
                 android:src="@drawable/person"
                 app:civ_border_color="#FE2C54"
                 app:civ_border_width="2dp"
-                tools:layout_editor_absoluteX="29dp"
-                tools:layout_editor_absoluteY="289dp" />
+                app:layout_constraintBottom_toTopOf="@+id/gl5"
+                app:layout_constraintEnd_toStartOf="@+id/gl10"
+                app:layout_constraintStart_toStartOf="@+id/gl9"
+                app:layout_constraintTop_toTopOf="@+id/gl4" />
+
 
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/imageViewUser8"
@@ -155,9 +229,10 @@
                 android:src="@drawable/person"
                 app:civ_border_color="#FE2C54"
                 app:civ_border_width="2dp"
-                tools:layout_editor_absoluteX="29dp"
-                tools:layout_editor_absoluteY="376dp" />
-
+                app:layout_constraintBottom_toTopOf="@+id/gl6"
+                app:layout_constraintEnd_toStartOf="@+id/gl10"
+                app:layout_constraintStart_toStartOf="@+id/gl9"
+                app:layout_constraintTop_toTopOf="@+id/gl5" />
 
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/imageViewUser9"
@@ -167,8 +242,10 @@
                 android:src="@drawable/person"
                 app:civ_border_color="#FE2C54"
                 app:civ_border_width="2dp"
-                tools:layout_editor_absoluteX="29dp"
-                tools:layout_editor_absoluteY="457dp" />
+                app:layout_constraintBottom_toTopOf="@+id/gl7"
+                app:layout_constraintEnd_toStartOf="@+id/gl10"
+                app:layout_constraintStart_toStartOf="@+id/gl9"
+                app:layout_constraintTop_toTopOf="@+id/gl6"/>
 
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/imageViewUser10"
@@ -178,114 +255,163 @@
                 android:src="@drawable/person"
                 app:civ_border_color="#FE2C54"
                 app:civ_border_width="2dp"
-                tools:layout_editor_absoluteX="29dp"
-                tools:layout_editor_absoluteY="549dp" />
-
-            <ImageView
-                android:id="@+id/statusOnline1"
-                android:layout_width="410dp"
-                android:layout_height="68dp"
-                android:layout_toRightOf="@id/imageViewUser1"
-                android:translationY="32dp"
-                tools:layout_editor_absoluteX="-1dp"
-                tools:layout_editor_absoluteY="164dp" />
-
-            <ImageView
-                android:id="@+id/statusOnline2"
-                android:layout_width="410dp"
-                android:layout_height="68dp"
-                android:layout_toRightOf="@id/imageViewUser1"
-                android:translationY="33dp"
-                tools:layout_editor_absoluteX="-1dp"
-                tools:layout_editor_absoluteY="250dp" />
-
-            <ImageView
-                android:id="@+id/statusOnline3"
-                android:layout_width="410dp"
-                android:layout_height="68dp"
-                android:layout_toRightOf="@id/imageViewUser1"
-                android:translationY="33dp"
-                tools:layout_editor_absoluteX="-1dp"
-                tools:layout_editor_absoluteY="338dp" />
-
-            <ImageView
-                android:id="@+id/statusOnline4"
-                android:layout_width="410dp"
-                android:layout_height="68dp"
-                android:layout_toRightOf="@id/imageViewUser1"
-                android:translationY="33dp"
-                tools:layout_editor_absoluteX="-1dp"
-                tools:layout_editor_absoluteY="419dp" />
-
-            <ImageView
-                android:id="@+id/statusOnline5"
-                android:layout_width="410dp"
-                android:layout_height="68dp"
-                android:layout_toRightOf="@id/imageViewUser1"
-                android:translationY="33dp"
-                tools:layout_editor_absoluteX="0dp"
-                tools:layout_editor_absoluteY="509dp" />
+                app:layout_constraintBottom_toTopOf="@+id/gl8"
+                app:layout_constraintEnd_toStartOf="@+id/gl10"
+                app:layout_constraintStart_toStartOf="@+id/gl9"
+                app:layout_constraintTop_toTopOf="@+id/gl7"/>
 
             <TextView
                 android:id="@+id/doctorname"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/statusOnline1"
+                android:layout_marginStart="100dp"
+                android:layout_marginTop="5dp"
                 android:fontFamily="@font/nunito_bold"
                 android:text="Doctor Name 2"
                 android:textColor="@color/black"
                 android:textSize="20dp"
-                tools:layout_editor_absoluteX="101dp"
-                tools:layout_editor_absoluteY="299dp" />
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/statusOnline2" />
 
             <TextView
                 android:id="@+id/doctorname2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/statusOnline2"
+                android:layout_marginStart="100dp"
+                android:layout_marginTop="5dp"
                 android:fontFamily="@font/nunito_bold"
                 android:text="Doctor Name 1"
                 android:textColor="@color/black"
                 android:textSize="20dp"
-                tools:layout_editor_absoluteX="101dp"
-                tools:layout_editor_absoluteY="202dp" />
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/statusOnline1" />
 
             <TextView
                 android:id="@+id/doctorname3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/statusOnline1"
+                android:layout_marginStart="100dp"
+                android:layout_marginTop="5dp"
                 android:fontFamily="@font/nunito_bold"
                 android:text="Doctor Name 3"
                 android:textColor="@color/black"
                 android:textSize="20dp"
-                tools:layout_editor_absoluteX="101dp"
-                tools:layout_editor_absoluteY="384dp" />
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/statusOnline3" />
 
             <TextView
                 android:id="@+id/doctorname4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/statusOnline1"
+                android:layout_marginStart="100dp"
+                android:layout_marginTop="5dp"
                 android:fontFamily="@font/nunito_bold"
                 android:text="Doctor Name 4"
                 android:textColor="@color/black"
                 android:textSize="20dp"
-                tools:layout_editor_absoluteX="101dp"
-                tools:layout_editor_absoluteY="467dp" />
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/statusOnline4" />
 
             <TextView
                 android:id="@+id/doctorname5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/statusOnline1"
+                android:layout_marginStart="100dp"
+                android:layout_marginTop="5dp"
                 android:fontFamily="@font/nunito_bold"
                 android:text="Doctor Name 5"
                 android:textColor="@color/black"
                 android:textSize="20dp"
-                tools:layout_editor_absoluteX="101dp"
-                tools:layout_editor_absoluteY="549dp" />
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/statusOnline5" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/gl1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.14" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/gl2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.25" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/gl3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.3" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/gl4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.45" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/gl5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.59" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/gl6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.73" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/gl7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.87" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/gl8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="1.0" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/gl9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.07" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/gl10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.22" />
+
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

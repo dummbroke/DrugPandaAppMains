@@ -60,10 +60,6 @@
         "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-62:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.drugpandaapp-debug-60:/layout_fragment_home.xml.flat",
-        "source": "com.example.drugpandaapp-main-62:/layout/fragment_home.xml"
-    },
-    {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-60:\\drawable_apple.png.flat",
         "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-62:\\drawable\\apple.png"
     },
@@ -138,6 +134,10 @@
     {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-60:\\drawable_rounded_corner.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-main-62:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "com.example.drugpandaapp-debug-60:/layout_fragment_order.xml.flat",
+        "source": "com.example.drugpandaapp-main-62:/layout/fragment_order.xml"
     },
     {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.drugpandaapp-debug-60:\\font_bhu.ttf.flat",

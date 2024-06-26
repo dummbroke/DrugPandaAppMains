@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.ImageButton
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import com.example.drugpandaapp.R
@@ -45,6 +46,11 @@ class ProfileMainFragment : Fragment() {
         // binding.btnLogOut.setOnClickListener {
         //     findNavController().navigate(R.id.action_profileMainFragment_to_logOutFragment)
         // }
+
+        val backButton: ImageButton = view.findViewById(R.id.imageButton04)
+        backButton.setOnClickListener {
+            findNavController().navigateUp()
+        }
     }
 
     override fun onDestroyView() {

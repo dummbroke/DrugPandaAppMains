@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
     tools:context=".fragments.NotificationsFragment">
 
     <ImageView
@@ -20,10 +21,11 @@
         android:id="@+id/imageButton04"
         android:layout_width="48dp"
         android:layout_height="41dp"
-        android:background="@color/white"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="17dp"
         android:src="@drawable/backnew"
-        tools:layout_editor_absoluteX="4dp"
-        tools:layout_editor_absoluteY="16dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView10"
@@ -58,38 +60,40 @@
                 android:id="@+id/doctorname1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
                 android:fontFamily="@font/nunito_bold"
                 android:text="Your order is complete"
                 android:textColor="@color/black"
                 android:textSize="20dp"
-                tools:layout_editor_absoluteX="16dp"
-                tools:layout_editor_absoluteY="113dp" />
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
 
             <TextView
                 android:id="@+id/doctorname2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
                 android:fontFamily="@font/nunito_bold"
                 android:text="Your order is complete"
                 android:textColor="@color/black"
                 android:textSize="20dp"
-                tools:layout_editor_absoluteX="15dp"
-                tools:layout_editor_absoluteY="175dp" />
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/doctorname1" />
 
             <TextView
                 android:id="@+id/doctorname3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
                 android:fontFamily="@font/nunito_bold"
                 android:text="Your order is complete"
                 android:textColor="@color/black"
                 android:textSize="20dp"
-                tools:layout_editor_absoluteX="16dp"
-                tools:layout_editor_absoluteY="252dp" />
-
-
-
-
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/doctorname2" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>

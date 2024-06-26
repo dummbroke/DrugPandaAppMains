@@ -48,13 +48,14 @@ class SignUp : AppCompatActivity() {
                 } else {
                     Toast.makeText(this, "Passwords do not match", Toast.LENGTH_SHORT).show()
                 }
-                } else {
-                    Toast.makeText(this, "Please fill in all fields", Toast.LENGTH_SHORT).show()
-                }
-                loginHereButton.setOnClickListener {
-                    val intent = Intent(this, LogIn::class.java)
-                    startActivity(intent)
-                }
+            } else {
+                Toast.makeText(this, "Please fill in all fields", Toast.LENGTH_SHORT).show()
             }
         }
+
+        loginHereButton.setOnClickListener {
+            val intent = Intent(this, LogIn::class.java)
+            startActivity(intent)
+        }
     }
+}

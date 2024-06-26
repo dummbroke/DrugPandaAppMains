@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Drug Panda App</string>
+    <string name="app_name">Drug Panda</string>
     <string name="google_web_client_id">417693884833-i6rsjbiftda2du64rnfgo04ubtfkmd0m.apps.googleusercontent.com</string>
     <string name="facebook_app_id">439214975638282</string>
     <string name="facebook_client_token">303877cd3d3633ad85fe47429027342c</string>
